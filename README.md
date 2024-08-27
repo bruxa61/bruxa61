@@ -16,3 +16,5 @@ alt="Rafaela Botelho github stats" />
 <a href="https://linkedin.com/in/rafaela-botelho-76a4a72b0" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank>"> </a>
 </div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
