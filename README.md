@@ -11,5 +11,8 @@ alt="Rafaela Botelho github stats" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruxa61&bg_color=0d1117&color=ff91a4&line=ff91a4&point=c20071&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.instagram.com/r.afita_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/r.afita_/" target="_blank"> 
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://linkedin.com/in/rafaela-botelho-76a4a72b0" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank>"> </a>
 </div> 
