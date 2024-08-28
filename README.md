@@ -19,4 +19,10 @@ alt="Rafaela Botelho github stats" />
   <img src="https://img.shields.io/badge/-Credly-%23E4405F?style=for-the-badge&logo=credly&logoColor=white" target="_blank>"> </a>
 </div> 
 
+<br>
+
+<div align="center">
+<img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width="80%">
+</div> 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
