@@ -22,7 +22,7 @@ alt="Rafaela Botelho github stats" />
 <br>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif" width="80%">
+<img src="https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif" width="90%">
 </div> 
 
 <div align="center">
