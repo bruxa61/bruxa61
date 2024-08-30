@@ -25,8 +25,6 @@ alt="Rafaela Botelho github stats" />
 <img src="https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif" width="80%">
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruxa61/bruxa61/output/github-contribution-grid-snake-dark.svg">
@@ -34,3 +32,5 @@ alt="Rafaela Botelho github stats" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruxa61/bruxa61/output/github-contribution-grid-snake.svg">
    </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
